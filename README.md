@@ -45,6 +45,6 @@ Duration of Training = 10.06s
 
 You can also visualize the training and validation loss over epochs in the graph below:
 
-![Training vs Validation Loss](results/loss_plot.png)
+![Training vs Validation Loss](loss_plot.png)
 
 
